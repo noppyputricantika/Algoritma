@@ -5,4 +5,3 @@
 3. lalu pindahkan teh kewadah kopi yang sudah kosong tadi, maka wadah teh akan kosong
 4. terakhir, pindahkan kopi yang dari wadah cadangan tadi kewadah teh yang sudah kosong.
 5. selesai
-'''
